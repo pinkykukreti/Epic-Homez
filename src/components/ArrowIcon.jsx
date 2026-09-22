@@ -1,0 +1,1 @@
+export default function ArrowIcon({direction='right'}) {return <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d={direction==='left'?'M14 5l-7 7 7 7':'M10 5l7 7-7 7'}/></svg>}

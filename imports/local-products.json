@@ -1,0 +1,765 @@
+{
+  "products": [
+    {
+      "id": "local-sage-floral-bedcover",
+      "name": "Sage Floral Bedcover",
+      "slug": "sage-floral-bedcover",
+      "category_slug": "bedcovers",
+      "images": [
+        {
+          "url": "/products/bedcovers/sage-floral-bedcover-1.jpeg",
+          "alt": "Sage Floral Bedcover — view 1",
+          "position": 0
+        },
+        {
+          "url": "/products/bedcovers/sage-floral-bedcover-2.jpeg",
+          "alt": "Sage Floral Bedcover — view 2",
+          "position": 1
+        },
+        {
+          "url": "/products/bedcovers/sage-floral-bedcover-3.jpeg",
+          "alt": "Sage Floral Bedcover — view 3",
+          "position": 2
+        },
+        {
+          "url": "/products/bedcovers/sage-floral-bedcover-4.jpeg",
+          "alt": "Sage Floral Bedcover — view 4",
+          "position": 3
+        },
+        {
+          "url": "/products/bedcovers/sage-floral-bedcover-5.jpeg",
+          "alt": "Sage Floral Bedcover — view 5",
+          "position": 4
+        },
+        {
+          "url": "/products/bedcovers/sage-floral-bedcover-6.jpeg",
+          "alt": "Sage Floral Bedcover — view 6",
+          "position": 5
+        },
+        {
+          "url": "/products/bedcovers/sage-floral-bedcover-7.jpeg",
+          "alt": "Sage Floral Bedcover — view 7",
+          "position": 6
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": true,
+      "new_arrival": false
+    },
+    {
+      "id": "local-peach-floral-bedcover",
+      "name": "Peach Floral Bedcover",
+      "slug": "peach-floral-bedcover",
+      "category_slug": "bedcovers",
+      "images": [
+        {
+          "url": "/products/bedcovers/peach-floral-bedcover-1.jpeg",
+          "alt": "Peach Floral Bedcover — view 1",
+          "position": 0
+        },
+        {
+          "url": "/products/bedcovers/peach-floral-bedcover-2.jpeg",
+          "alt": "Peach Floral Bedcover — view 2",
+          "position": 1
+        },
+        {
+          "url": "/products/bedcovers/peach-floral-bedcover-3.jpeg",
+          "alt": "Peach Floral Bedcover — view 3",
+          "position": 2
+        },
+        {
+          "url": "/products/bedcovers/peach-floral-bedcover-4.jpeg",
+          "alt": "Peach Floral Bedcover — view 4",
+          "position": 3
+        },
+        {
+          "url": "/products/bedcovers/peach-floral-bedcover-5.jpeg",
+          "alt": "Peach Floral Bedcover — view 5",
+          "position": 4
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": false
+    },
+    {
+      "id": "local-blue-scallop-cushion-cover",
+      "name": "Blue Scallop Cushion Cover",
+      "slug": "blue-scallop-cushion-cover",
+      "category_slug": "cushion-covers",
+      "images": [
+        {
+          "url": "/products/cushion-covers/blue-scallop-cushion-cover-1.jpeg",
+          "alt": "Blue Scallop Cushion Cover — view 1",
+          "position": 0
+        },
+        {
+          "url": "/products/cushion-covers/blue-scallop-cushion-cover-2.jpeg",
+          "alt": "Blue Scallop Cushion Cover — view 2",
+          "position": 1
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": true,
+      "new_arrival": false
+    },
+    {
+      "id": "local-green-scallop-cushion-cover",
+      "name": "Green Scallop Cushion Cover",
+      "slug": "green-scallop-cushion-cover",
+      "category_slug": "cushion-covers",
+      "images": [
+        {
+          "url": "/products/cushion-covers/green-scallop-cushion-cover-1.jpeg",
+          "alt": "Green Scallop Cushion Cover — view 1",
+          "position": 0
+        },
+        {
+          "url": "/products/cushion-covers/green-scallop-cushion-cover-2.jpeg",
+          "alt": "Green Scallop Cushion Cover — view 2",
+          "position": 1
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": false
+    },
+    {
+      "id": "local-gold-patchwork-cushion-cover",
+      "name": "Gold Patchwork Cushion Cover",
+      "slug": "gold-patchwork-cushion-cover",
+      "category_slug": "cushion-covers",
+      "images": [
+        {
+          "url": "/products/cushion-covers/gold-patchwork-cushion-cover-1.jpeg",
+          "alt": "Gold Patchwork Cushion Cover — view 1",
+          "position": 0
+        },
+        {
+          "url": "/products/cushion-covers/gold-patchwork-cushion-cover-2.jpeg",
+          "alt": "Gold Patchwork Cushion Cover — view 2",
+          "position": 1
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": false
+    },
+    {
+      "id": "local-gold-lattice-cushion-cover",
+      "name": "Gold Lattice Cushion Cover",
+      "slug": "gold-lattice-cushion-cover",
+      "category_slug": "cushion-covers",
+      "images": [
+        {
+          "url": "/products/cushion-covers/gold-lattice-cushion-cover-1.jpeg",
+          "alt": "Gold Lattice Cushion Cover — view 1",
+          "position": 0
+        },
+        {
+          "url": "/products/cushion-covers/gold-lattice-cushion-cover-2.jpeg",
+          "alt": "Gold Lattice Cushion Cover — view 2",
+          "position": 1
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": false
+    },
+    {
+      "id": "local-pink-scallop-cushion-cover",
+      "name": "Pink Scallop Cushion Cover",
+      "slug": "pink-scallop-cushion-cover",
+      "category_slug": "cushion-covers",
+      "images": [
+        {
+          "url": "/products/cushion-covers/pink-scallop-cushion-cover-1.jpeg",
+          "alt": "Pink Scallop Cushion Cover — view 1",
+          "position": 0
+        },
+        {
+          "url": "/products/cushion-covers/pink-scallop-cushion-cover-2.jpeg",
+          "alt": "Pink Scallop Cushion Cover — view 2",
+          "position": 1
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": false
+    },
+    {
+      "id": "local-peach-leaf-cushion-cover",
+      "name": "Peach Leaf Cushion Cover",
+      "slug": "peach-leaf-cushion-cover",
+      "category_slug": "cushion-covers",
+      "images": [
+        {
+          "url": "/products/cushion-covers/peach-leaf-cushion-cover-1.jpeg",
+          "alt": "Peach Leaf Cushion Cover — view 1",
+          "position": 0
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": false
+    },
+    {
+      "id": "local-blue-patchwork-cushion-cover",
+      "name": "Blue Patchwork Cushion Cover",
+      "slug": "blue-patchwork-cushion-cover",
+      "category_slug": "cushion-covers",
+      "images": [
+        {
+          "url": "/products/cushion-covers/blue-patchwork-cushion-cover-1.jpeg",
+          "alt": "Blue Patchwork Cushion Cover — view 1",
+          "position": 0
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": false
+    },
+    {
+      "id": "local-blue-pavilion-cushion-cover",
+      "name": "Blue Pavilion Cushion Cover",
+      "slug": "blue-pavilion-cushion-cover",
+      "category_slug": "cushion-covers",
+      "images": [
+        {
+          "url": "/products/cushion-covers/blue-pavilion-cushion-cover-1.jpeg",
+          "alt": "Blue Pavilion Cushion Cover — view 1",
+          "position": 0
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": false
+    },
+    {
+      "id": "local-charcoal-feather-cushion-cover",
+      "name": "Charcoal Feather Cushion Cover",
+      "slug": "charcoal-feather-cushion-cover",
+      "category_slug": "cushion-covers",
+      "images": [
+        {
+          "url": "/products/cushion-covers/charcoal-feather-cushion-cover-1.jpeg",
+          "alt": "Charcoal Feather Cushion Cover — view 1",
+          "position": 0
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": false
+    },
+    {
+      "id": "local-pink-palace-cushion-cover",
+      "name": "Pink Palace Cushion Cover",
+      "slug": "pink-palace-cushion-cover",
+      "category_slug": "cushion-covers",
+      "images": [
+        {
+          "url": "/products/cushion-covers/pink-palace-cushion-cover-1.jpeg",
+          "alt": "Pink Palace Cushion Cover — view 1",
+          "position": 0
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": false
+    },
+    {
+      "id": "local-ivory-feather-cushion-cover",
+      "name": "Ivory Feather Cushion Cover",
+      "slug": "ivory-feather-cushion-cover",
+      "category_slug": "cushion-covers",
+      "images": [
+        {
+          "url": "/products/cushion-covers/ivory-feather-cushion-cover-1.jpeg",
+          "alt": "Ivory Feather Cushion Cover — view 1",
+          "position": 0
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": false
+    },
+    {
+      "id": "local-brown-quilted-blanket",
+      "name": "Brown Quilted Blanket",
+      "slug": "brown-quilted-blanket",
+      "category_slug": "throws-blankets",
+      "images": [
+        {
+          "url": "/products/throws-blankets/brown-quilted-blanket-1.jpeg",
+          "alt": "Brown Quilted Blanket — view 1",
+          "position": 0
+        },
+        {
+          "url": "/products/throws-blankets/brown-quilted-blanket-2.jpeg",
+          "alt": "Brown Quilted Blanket — view 2",
+          "position": 1
+        },
+        {
+          "url": "/products/throws-blankets/brown-quilted-blanket-3.jpeg",
+          "alt": "Brown Quilted Blanket — view 3",
+          "position": 2
+        },
+        {
+          "url": "/products/throws-blankets/brown-quilted-blanket-4.jpeg",
+          "alt": "Brown Quilted Blanket — view 4",
+          "position": 3
+        },
+        {
+          "url": "/products/throws-blankets/brown-quilted-blanket-5.jpeg",
+          "alt": "Brown Quilted Blanket — view 5",
+          "position": 4
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": true,
+      "new_arrival": false
+    },
+    {
+      "id": "local-blue-quilted-blanket",
+      "name": "Blue Quilted Blanket",
+      "slug": "blue-quilted-blanket",
+      "category_slug": "throws-blankets",
+      "images": [
+        {
+          "url": "/products/throws-blankets/blue-quilted-blanket-1.jpeg",
+          "alt": "Blue Quilted Blanket — view 1",
+          "position": 0
+        },
+        {
+          "url": "/products/throws-blankets/blue-quilted-blanket-2.jpeg",
+          "alt": "Blue Quilted Blanket — view 2",
+          "position": 1
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": false
+    },
+    {
+      "id": "local-ivory-stripe-bedsheet",
+      "name": "Ivory Stripe Bedsheet",
+      "slug": "ivory-stripe-bedsheet",
+      "category_slug": "bedsheets",
+      "images": [
+        {
+          "url": "/products/bedsheets/ivory-stripe-bedsheet-1.jpeg",
+          "alt": "Ivory Stripe Bedsheet — view 1",
+          "position": 0
+        },
+        {
+          "url": "/products/bedsheets/ivory-stripe-bedsheet-2.jpeg",
+          "alt": "Ivory Stripe Bedsheet — view 2",
+          "position": 1
+        },
+        {
+          "url": "/products/bedsheets/ivory-stripe-bedsheet-3.jpeg",
+          "alt": "Ivory Stripe Bedsheet — view 3",
+          "position": 2
+        },
+        {
+          "url": "/products/bedsheets/ivory-stripe-bedsheet-4.jpeg",
+          "alt": "Ivory Stripe Bedsheet — view 4",
+          "position": 3
+        },
+        {
+          "url": "/products/bedsheets/ivory-stripe-bedsheet-5.jpeg",
+          "alt": "Ivory Stripe Bedsheet — view 5",
+          "position": 4
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": true
+    },
+    {
+      "id": "local-checked-table-mats",
+      "name": "Checked Table Mats",
+      "slug": "checked-table-mats",
+      "category_slug": "table-linen",
+      "images": [
+        {
+          "url": "/products/table-linen/checked-table-mats-1.jpeg",
+          "alt": "Checked Table Mats — view 1",
+          "position": 0
+        },
+        {
+          "url": "/products/table-linen/checked-table-mats-2.jpeg",
+          "alt": "Checked Table Mats — view 2",
+          "position": 1
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": true
+    },
+    {
+      "id": "local-gold-geometric-table-mat",
+      "name": "Gold Geometric Table Mat",
+      "slug": "gold-geometric-table-mat",
+      "category_slug": "table-linen",
+      "images": [
+        {
+          "url": "/products/table-linen/gold-geometric-table-mat-1.jpeg",
+          "alt": "Gold Geometric Table Mat — view 1",
+          "position": 0
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": true,
+      "new_arrival": true
+    },
+    {
+      "id": "local-black-and-ivory-table-runner",
+      "name": "Black and Ivory Table Runner",
+      "slug": "black-and-ivory-table-runner",
+      "category_slug": "table-linen",
+      "images": [
+        {
+          "url": "/products/table-linen/black-and-ivory-table-runner-1.jpeg",
+          "alt": "Black and Ivory Table Runner — view 1",
+          "position": 0
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": true
+    },
+    {
+      "id": "local-ochre-door-mat",
+      "name": "Ochre Door Mat",
+      "slug": "ochre-door-mat",
+      "category_slug": "carpet",
+      "images": [
+        {
+          "url": "/products/carpet/ochre-door-mat-1.jpeg",
+          "alt": "Ochre Door Mat — view 1",
+          "position": 0
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": false
+    },
+    {
+      "id": "local-ivory-and-gold-speckled-carpet",
+      "name": "Ivory and Gold Speckled Carpet",
+      "slug": "ivory-and-gold-speckled-carpet",
+      "category_slug": "carpet",
+      "images": [
+        {
+          "url": "/products/carpet/ivory-and-gold-speckled-carpet-1.jpeg",
+          "alt": "Ivory and Gold Speckled Carpet — view 1",
+          "position": 0
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": false
+    },
+    {
+      "id": "local-neutral-stripe-carpet",
+      "name": "Neutral Stripe Carpet",
+      "slug": "neutral-stripe-carpet",
+      "category_slug": "carpet",
+      "images": [
+        {
+          "url": "/products/carpet/neutral-stripe-carpet-1.jpeg",
+          "alt": "Neutral Stripe Carpet — view 1",
+          "position": 0
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": false
+    },
+    {
+      "id": "local-grey-patchwork-carpet",
+      "name": "Grey Patchwork Carpet",
+      "slug": "grey-patchwork-carpet",
+      "category_slug": "carpet",
+      "images": [
+        {
+          "url": "/products/carpet/grey-patchwork-carpet-1.jpeg",
+          "alt": "Grey Patchwork Carpet — view 1",
+          "position": 0
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": false
+    },
+    {
+      "id": "local-grey-chevron-carpet",
+      "name": "Grey Chevron Carpet",
+      "slug": "grey-chevron-carpet",
+      "category_slug": "carpet",
+      "images": [
+        {
+          "url": "/products/carpet/grey-chevron-carpet-1.jpeg",
+          "alt": "Grey Chevron Carpet — view 1",
+          "position": 0
+        },
+        {
+          "url": "/products/carpet/grey-chevron-carpet-2.jpeg",
+          "alt": "Grey Chevron Carpet — view 2",
+          "position": 1
+        },
+        {
+          "url": "/products/carpet/grey-chevron-carpet-3.jpeg",
+          "alt": "Grey Chevron Carpet — view 3",
+          "position": 2
+        },
+        {
+          "url": "/products/carpet/grey-chevron-carpet-4.jpeg",
+          "alt": "Grey Chevron Carpet — view 4",
+          "position": 3
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": false
+    },
+    {
+      "id": "local-taupe-patchwork-carpet",
+      "name": "Taupe Patchwork Carpet",
+      "slug": "taupe-patchwork-carpet",
+      "category_slug": "carpet",
+      "images": [
+        {
+          "url": "/products/carpet/taupe-patchwork-carpet-1.jpeg",
+          "alt": "Taupe Patchwork Carpet — view 1",
+          "position": 0
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": false
+    },
+    {
+      "id": "local-neutral-chevron-carpet",
+      "name": "Neutral Chevron Carpet",
+      "slug": "neutral-chevron-carpet",
+      "category_slug": "carpet",
+      "images": [
+        {
+          "url": "/products/carpet/neutral-chevron-carpet-1.jpeg",
+          "alt": "Neutral Chevron Carpet — view 1",
+          "position": 0
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": false
+    },
+    {
+      "id": "local-brown-speckled-carpet",
+      "name": "Brown Speckled Carpet",
+      "slug": "brown-speckled-carpet",
+      "category_slug": "carpet",
+      "images": [
+        {
+          "url": "/products/carpet/brown-speckled-carpet-1.jpeg",
+          "alt": "Brown Speckled Carpet — view 1",
+          "position": 0
+        }
+      ],
+      "public_price": null,
+      "sale_price": null,
+      "size": "",
+      "material": "",
+      "colour": "",
+      "specifications": {},
+      "variants": [],
+      "tags": [],
+      "featured": false,
+      "new_arrival": false
+    }
+  ]
+}

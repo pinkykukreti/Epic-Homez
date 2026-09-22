@@ -1,0 +1,228 @@
+{
+  "observed_on": "2026-09-20",
+  "currency": "INR",
+  "seller_id": "A2XDGSLUPKG0E8",
+  "note": "Photos observed in each Amazon product gallery. Prices are a snapshot, not live synchronisation. Review specifications before publishing. ASIN is not a seller SKU.",
+  "products": [
+    {
+      "asin": "B0HCM5J1D5",
+      "name": "Blue & Mustard Ginkgo Leaf Bedsheet",
+      "slug": "amazon-b0hcm5j1d5",
+      "category_slug": "bedsheets",
+      "source_url": "https://www.amazon.in/dp/B0HCM5J1D5",
+      "amazon_price_inr": 480,
+      "amazon_mrp_inr": 1257,
+      "images": [
+        "https://m.media-amazon.com/images/I/81Mn+IaZVfL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/710iVoQ5t3L._SL1402_.jpg",
+        "https://m.media-amazon.com/images/I/81LcmliZpzL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/716RpC8k-eL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71yt5DGdO0L._SL1254_.jpg"
+      ]
+    },
+    {
+      "asin": "B0HJ98DDHY",
+      "name": "Green Khadi Cotton Bedsheet",
+      "slug": "amazon-b0hj98ddhy",
+      "category_slug": "bedsheets",
+      "source_url": "https://www.amazon.in/dp/B0HJ98DDHY",
+      "amazon_price_inr": 795,
+      "amazon_mrp_inr": 1157,
+      "images": [
+        "https://m.media-amazon.com/images/I/81y0zZGPwkL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/815Pdsi96+L._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81V64z-fa0L._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71gb3PXlttL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/716f9q+2A7L._SL1254_.jpg"
+      ]
+    },
+    {
+      "asin": "B0HJ95S2WS",
+      "name": "Blue Khadi Cotton Bedsheet",
+      "slug": "amazon-b0hj95s2ws",
+      "category_slug": "bedsheets",
+      "source_url": "https://www.amazon.in/dp/B0HJ95S2WS",
+      "amazon_price_inr": 795,
+      "amazon_mrp_inr": 1157,
+      "images": [
+        "https://m.media-amazon.com/images/I/81AWTOjkd7L._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81o6bNYYQwL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81rGfJFY2-L._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81zYmvkZZUL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71tJ2DSMKkL._SL1254_.jpg"
+      ]
+    },
+    {
+      "asin": "B0HFK4SGPD",
+      "name": "Reversible Floral & Geometric Bedsheet",
+      "slug": "amazon-b0hfk4sgpd",
+      "category_slug": "bedsheets",
+      "source_url": "https://www.amazon.in/dp/B0HFK4SGPD",
+      "amazon_price_inr": 1250,
+      "amazon_mrp_inr": 1999,
+      "images": [
+        "https://m.media-amazon.com/images/I/81L+5XgH6SL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81JtrfuDiVL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71i560OvTHL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71QKVpW2jVL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81ZaDbfAqoL._SL1402_.jpg",
+        "https://m.media-amazon.com/images/I/81mqAc0P3fL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71JJ-a+O1CL._SL1254_.jpg"
+      ]
+    },
+    {
+      "asin": "B0H8VHLNPC",
+      "name": "Green Floral Bedsheet",
+      "slug": "amazon-b0h8vhlnpc",
+      "category_slug": "bedsheets",
+      "source_url": "https://www.amazon.in/dp/B0H8VHLNPC",
+      "amazon_price_inr": 480,
+      "amazon_mrp_inr": 1257,
+      "images": [
+        "https://m.media-amazon.com/images/I/71n0ca141UL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/714FKubjqkL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/718jT6nLQzL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71h-xB7OOoL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71eqL+LbGmL._SL1254_.jpg"
+      ]
+    },
+    {
+      "asin": "B0HCLVXYSQ",
+      "name": "Grey Vintage Floral Bedsheet",
+      "slug": "amazon-b0hclvxysq",
+      "category_slug": "bedsheets",
+      "source_url": "https://www.amazon.in/dp/B0HCLVXYSQ",
+      "amazon_price_inr": 480,
+      "amazon_mrp_inr": 1257,
+      "images": [
+        "https://m.media-amazon.com/images/I/81waPHHcHmL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81-SuShhMhL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81AhuiPQy9L._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81ET3GgoCrL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71NWizgFiCL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81r12VSi1FL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71CQ1I1EY1L._SL1254_.jpg"
+      ]
+    },
+    {
+      "asin": "B0HC6RF3TF",
+      "name": "Brown Floral Bedsheet",
+      "slug": "amazon-b0hc6rf3tf",
+      "category_slug": "bedsheets",
+      "source_url": "https://www.amazon.in/dp/B0HC6RF3TF",
+      "amazon_price_inr": 480,
+      "amazon_mrp_inr": 1257,
+      "images": [
+        "https://m.media-amazon.com/images/I/718Y3CHnURL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71KHfFYg2CL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71POPmY0TXL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71L1bUXBzJL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71F62WZSSuL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/61+LL9xA-BL._SL1280_.jpg"
+      ]
+    },
+    {
+      "asin": "B0HC796HRR",
+      "name": "Peach Floral Bedsheet",
+      "slug": "amazon-b0hc796hrr",
+      "category_slug": "bedsheets",
+      "source_url": "https://www.amazon.in/dp/B0HC796HRR",
+      "amazon_price_inr": 480,
+      "amazon_mrp_inr": 1257,
+      "images": [
+        "https://m.media-amazon.com/images/I/71XlB75A6BL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71wuybrm0dL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/61yPTrJeJqL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81bZD6MzdeL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/61v8mUoYUiL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71i1aeTVvfL._SL1254_.jpg"
+      ]
+    },
+    {
+      "asin": "B0H8Q77RP9",
+      "name": "White Floral Bedsheet",
+      "slug": "amazon-b0h8q77rp9",
+      "category_slug": "bedsheets",
+      "source_url": "https://www.amazon.in/dp/B0H8Q77RP9",
+      "amazon_price_inr": 490,
+      "amazon_mrp_inr": 1257,
+      "images": [
+        "https://m.media-amazon.com/images/I/81M2PCgEpuL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71uuFTJYCWL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71d4cXzTfxL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81djWcaZRFL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71iYeRBLDIL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/61+LL9xA-BL._SL1280_.jpg"
+      ]
+    },
+    {
+      "asin": "B0HC793BMY",
+      "name": "Tree & Geometric Bedsheet",
+      "slug": "amazon-b0hc793bmy",
+      "category_slug": "bedsheets",
+      "source_url": "https://www.amazon.in/dp/B0HC793BMY",
+      "amazon_price_inr": 450,
+      "amazon_mrp_inr": 1257,
+      "images": [
+        "https://m.media-amazon.com/images/I/81aZlNxzYHL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81CckoF2u4L._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71s48MTC-oL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/819ucToeRdL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81SPFq-KLAL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81iioT8bgDL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/61+LL9xA-BL._SL1280_.jpg"
+      ]
+    },
+    {
+      "asin": "B0HC77LXYK",
+      "name": "Blue Patchwork Bedsheet",
+      "slug": "amazon-b0hc77lxyk",
+      "category_slug": "bedsheets",
+      "source_url": "https://www.amazon.in/dp/B0HC77LXYK",
+      "amazon_price_inr": 450,
+      "amazon_mrp_inr": 1257,
+      "images": [
+        "https://m.media-amazon.com/images/I/811uA3aHFsL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81WnU42e0NL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/716r1FzYGxL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81e75ocXjBL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71-35ZT2iuL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81Dv7v+6whL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/61+LL9xA-BL._SL1280_.jpg"
+      ]
+    },
+    {
+      "asin": "B0HC6PWYXX",
+      "name": "Sea Green & White Paisley Floral Bedsheet",
+      "slug": "amazon-b0hc6pwyxx",
+      "category_slug": "bedsheets",
+      "source_url": "https://www.amazon.in/dp/B0HC6PWYXX",
+      "amazon_price_inr": 480,
+      "amazon_mrp_inr": 1257,
+      "images": [
+        "https://m.media-amazon.com/images/I/81LZI8kDreL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71+I23GF2qL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81SYTmDEGUL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71LiCLhvMHL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81MOAiadOYL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/61+LL9xA-BL._SL1280_.jpg"
+      ]
+    },
+    {
+      "asin": "B0HC7HXYF6",
+      "name": "Blue Geometric Bedsheet",
+      "slug": "amazon-b0hc7hxyf6",
+      "category_slug": "bedsheets",
+      "source_url": "https://www.amazon.in/dp/B0HC7HXYF6",
+      "amazon_price_inr": 580,
+      "amazon_mrp_inr": 1257,
+      "images": [
+        "https://m.media-amazon.com/images/I/817V+xmCycL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/713YU+-S1uL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/71xd2XcYs1L._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81TdbYihCmL._SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/817tcJH7i8L._SL1254_.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {publicCategories,categoryMatches} from '../src/lib/collections.js';
+test('public groups hide paused collections and combine bedding',()=>{const input=['bedsheets','bedcovers','comforters','rajai','sofa-covers','home-accessories'].map(slug=>({slug,name:slug}));const output=publicCategories(input);assert.deepEqual(output.map(c=>c.slug),['bedsheets','bedcovers']);assert.equal(output[1].name,'Bedcovers & Comforters');assert.equal(input.length,6)});
+test('combined bedding filter includes both sources only',()=>{assert.ok(categoryMatches('comforters','bedcovers'));assert.ok(categoryMatches('bedcovers','comforters'));assert.equal(categoryMatches('bedsheets','bedcovers'),false)});
