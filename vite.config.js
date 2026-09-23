@@ -16,7 +16,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/Epic-Homez/",
+  // base: "/Epic-Homez/",
   esbuild: { jsx: "automatic" },
   build: {
     rollupOptions: {
